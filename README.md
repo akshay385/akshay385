@@ -1,6 +1,6 @@
 ### Hola, I'm Akshay Rajendra 👋
 
-- 🔭 I’m currently persuing B.E in CSE 
+- 🔭 Aspiring Software engineer
 - 🌱 I’m currently learning python
 - 👯 I’m looking to collaborate on youtube
 - 🤔 I’m looking for help with swift programming
